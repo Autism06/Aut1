@@ -1,5 +1,6 @@
 
 This repo consist of all the important files related to Autistim detection project. It comprises of the project report, dataset link and the code files with which we have achieved our goal of Detecting autistic patients.
+The order in which the files are to be followed is given below: 
 # autism.pdf
 In Autism.pdf file ,project report has been uploaded to take a look over the project itenarary and to provide better understanding of the project.
 Every step by step explanation has been mentioned in the project report.
