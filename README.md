@@ -13,9 +13,3 @@ Here, we have provided the used dataset of all the people of age group between 1
 # CODE
 
 Here, in this file all the code has been mentioned along with the proper comments inorder to better understand the code.
-
-
-# BusinessIntelligence.docx
-
-
-This file has a summarized version of what all are we going to do in this project along with some graphical representations.
